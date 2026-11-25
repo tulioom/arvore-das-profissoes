@@ -35,6 +35,14 @@ arvore-das-profissoes/
 - 🌐 [Portfólio](https://github.com/tulioom/portfolio)
 - 👤 [Meu GitHub](https://github.com/tulioom)
 
+## 📚 Pesquisa complementar
+
+<p align="center">
+  <a href="pesquisa_tres_profissoes_ia.md">
+    <img src="https://img.shields.io/badge/ACESSAR_PESQUISA-2ea44f?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Acessar pesquisa">
+  </a>
+</p>
+
 ## ✍️ Autor
 
 **Túlio Abreu Mendes de Assis**
