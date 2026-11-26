@@ -1,4 +1,4 @@
-# 🌳 Árvore das Profissões
+#  Árvore das Profissões
 
 Projeto em que mapeei as profissões da minha família e mostrei como elas se conectam até chegar na minha trajetória atual: a formação em **Técnico em Informática para Internet**.
 
@@ -6,7 +6,7 @@ Projeto em que mapeei as profissões da minha família e mostrei como elas se co
   <img src="arvore.png" alt="Árvore das Profissões" width="720">
 </p>
 
-## 📖 Sobre o projeto
+##  Sobre o projeto
 
 A Árvore das Profissões é um diagrama genealógico profissional. Ele reúne:
 
@@ -16,7 +16,7 @@ A Árvore das Profissões é um diagrama genealógico profissional. Ele reúne:
 
 Para cada pessoa, o diagrama mostra a **profissão** e a **atividade** que ela exerce. Assim dá para ver de onde vêm as áreas de trabalho da família e onde eu me encaixo nelas: estudando e criando sites.
 
-## 🎯 O que aprendi
+##  O que aprendi
 
 - Mapear competências e áreas de atuação em um diagrama
 - Organizar informações em níveis (gerações) de forma clara
