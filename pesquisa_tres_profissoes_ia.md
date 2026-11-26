@@ -1,126 +1,443 @@
-# Pesquisa: três profissões, 20 anos de mudanças e a IA nos próximos 10
+Transformações profissionais e perspectivas da inteligência artificial
+Pesquisa realizada em: 26 de novembro de 2026
+Período analisado: aproximadamente 2006--2026
+Perspectiva de futuro: 2026--2036
+Apresentação
+Esta pesquisa analisa três áreas profissionais: técnico de enfermagem;
+contador em uma indústria da Cooper Standard; e trabalho administrativo
+ou de gestão em uma Secretaria Municipal de Saúde. O objetivo é
+identificar mudanças relevantes ocorridas no Brasil nas últimas duas
+décadas e apresentar possíveis impactos da inteligência artificial (IA)
+nos próximos dez anos.
 
-Data da pesquisa: 25/11/2026.
+As informações sobre o passado são apresentadas como fatos documentados
+pelas fontes consultadas. As informações sobre o futuro são tratadas
+como tendências ou projeções, pois não é possível afirmar com certeza
+como as profissões estarão em 2036.
+1. Técnico de enfermagem
+Transformações nos últimos 20 anos
+Qualificação profissional. Um antecedente importante para
+compreender a evolução da enfermagem brasileira foi o Projeto de
+Profissionalização dos Trabalhadores da Área de Enfermagem (Profae),
+iniciado em 2000. O programa buscou ampliar a formação de trabalhadores
+que já atuavam na área sem a qualificação técnica exigida. Embora tenha
+começado antes do período principal desta pesquisa, contribuiu para o
+processo de profissionalização que continuou nos anos seguintes.
 
-**Regras deste arquivo**
-- Só entra o que foi conferido em uma fonte real, com o link.
-- Ninguém consegue "confirmar" o futuro. Na seção de IA, cada item registra o que a fonte **afirma ou projeta**, não um fato consumado. Está marcado como *projeção*.
-- Onde não achei fonte, está escrito em "Lacunas" (não entrou como informação).
+Fontes: - Ministério da Saúde --- resultados do
+Profae -
+Ministério da Saúde --- publicação sobre o
+Profae
 
-**Profissões** (do pedido): técnico de enfermagem; contador no Santander; trabalho na Secretaria Municipal de Saúde (prefeitura).
-A imagem `arvore.png` não veio no upload, então usei as três que você nomeou.
+Crescimento da participação dos técnicos. Levantamento publicado
+pela revista Pesquisa FAPESP aponta que, entre 2012 e 2021, a
+participação dos técnicos de enfermagem nos vínculos formais da
+categoria passou de 44,8% para 58,7%. No mesmo levantamento, a
+participação dos enfermeiros passou de 21,5% para 27,1%, enquanto a dos
+auxiliares caiu de 33,6% para 14,1%. Os percentuais se referem a
+vínculos formais de trabalho, e não necessariamente a pessoas únicas.
 
-**Pedido feito para cada uma:** como a profissão mudou no Brasil nos últimos 20 anos e que mudanças a IA deve trazer nos próximos 10?
+Fonte: Pesquisa FAPESP --- mudanças no mercado de trabalho da
+enfermagem
 
----
+Expansão dos vínculos de trabalho. A mesma publicação informa que o
+número de vínculos de técnicos de enfermagem cresceu de aproximadamente
+1 milhão para 1,5 milhão entre 2017 e 2022, aumento de cerca de 44%. O
+setor público concentrava 61,9% desses vínculos. Como um profissional
+pode possuir mais de um vínculo, esses números não devem ser
+interpretados como quantidade exata de trabalhadores individuais.
 
-## 1. Técnico de enfermagem
+Fonte: Pesquisa FAPESP --- mercado de trabalho da
+enfermagem
 
-### Últimos 20 anos (confirmado)
+Piso salarial nacional. A Lei nº 14.434/2022 estabeleceu o piso
+nacional da enfermagem. Para os técnicos, o valor previsto corresponde a
+70% do piso dos enfermeiros: R$ 3.325, considerando o piso de R$ 4.750
+para enfermeiros. A aplicação da lei passou por decisões judiciais e
+regras de implementação. Portanto, a existência do piso legal não
+significa que todos os profissionais recebam automaticamente o mesmo
+valor em qualquer vínculo de trabalho. Publicação da Pesquisa FAPESP
+de 2026 também registra dificuldades de implementação e questões
+relacionadas à remuneração no setor.
 
-- **Profae (2000–2005):** o Ministério da Saúde lançou em 2000 o projeto de profissionalização de trabalhadores de enfermagem, com meta de qualificar cerca de 225 mil pessoas sem formação técnica formal. Terminou em julho de 2005.
-  - https://www.redalyc.org/pdf/672/67240155014.pdf
-  - https://periodicos.ufmg.br/index.php/reme/article/download/50361/41898/181937
-- **Técnicos ganharam peso e auxiliares encolheram (vínculos formais, 2012 → 2021):** técnicos de 44,8% para 58,7%; enfermeiros de 21,5% para 27,1%; auxiliares de 33,6% para 14,1%.
-  - https://revistapesquisa.fapesp.br/wp-content/uploads/2026/02/084-087_enfermagem_360.pdf
-- **Tamanho da categoria:** o Cofen informa quase 3 milhões de profissionais, sendo 63,58% técnicos (cerca de 1,9 milhão).
-  - https://www.cofen.gov.br/?p=188805
-  - Outra página do Cofen (set/2025) fala em 1.993.171 técnicos registrados e mais de 3,2 milhões no total. As bases diferem (registros x profissionais ativos), então os números não são idênticos: https://www.cofen.gov.br/?p=152302
-- **Postos de trabalho:** de cerca de 1 milhão para 1,5 milhão de vínculos entre 2017 e 2022 (+44%). Setor público concentra 61,9% dos vínculos. Um mesmo trabalhador pode ter mais de um vínculo.
-  - https://revistapesquisa.fapesp.br/wp-content/uploads/2026/02/084-087_enfermagem_360.pdf
-- **Piso salarial nacional (Lei 14.434/2022):** R$ 4.750 para enfermeiro; técnico recebe 70% desse valor (R$ 3.325); auxiliar e parteira, 50%.
-  - https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14434.htm
-  - O STF suspendeu os efeitos da lei em 4/9/2022 por meio da ADI 7.222 (cautelar). Fonte: https://legis.senado.leg.br/sdleg-getter/documento?dm=9227918
-  - Cartilha do Ministério da Saúde com o histórico: https://www.gov.br/saude/pt-br/composicao/sgtes/piso-da-enfermagem/publicacoes/cartilha-piso-da-enfermagem.pdf/@@download/file
-- **Aplicação do piso e renda (2026):** segundo conselheira do Cofen citada na Pesquisa FAPESP, o piso não foi plenamente efetivado nos setores privado e filantrópico. Pesquisadores relatam estagnação ou queda da remuneração média, sobretudo de auxiliares e técnicos, e perda de poder de compra ao corrigir pelo IPCA.
-  - https://revistapesquisa.fapesp.br/wp-content/uploads/2026/02/084-087_enfermagem_360.pdf
-- **Pautas em aberto:** PEC 19/2024 (piso ligado a jornada de 30h e reajuste anual) e PL 1.329/2025 (avaliação nacional obrigatória para registro profissional), ambos em tramitação conforme as fontes.
-  - https://revistapesquisa.fapesp.br/wp-content/uploads/2026/02/084-087_enfermagem_360.pdf
-  - https://www.cofen.gov.br/?p=188805
-- **Saúde mental:** o INSS registrou 70.701 afastamentos de profissionais de enfermagem por saúde mental entre 2012 e 2024; técnicos de enfermagem aparecem em 6º lugar entre os trabalhadores mais afastados por esse motivo.
-  - https://cofen.gov.br/?p=180649
+Fontes: - Lei nº 14.434/2022 --- Presidência da
+República -
+Ministério da Saúde --- cartilha sobre o piso da
+enfermagem -
+Pesquisa FAPESP --- remuneração e condições de trabalho na
+enfermagem
 
-### IA nos próximos 10 anos (o que as fontes dizem; *projeção*)
+Digitalização dos registros. A documentação do atendimento passou a
+utilizar cada vez mais sistemas eletrônicos. Em 2024, o Conselho Federal
+de Enfermagem publicou a Resolução nº 754, que trata do uso de
+prontuário eletrônico e plataformas digitais no âmbito da enfermagem. A
+mudança exige familiaridade com sistemas informatizados e atenção à
+qualidade dos registros e à proteção das informações dos pacientes.
 
-- **Posição do Cofen (jun/2024):** a IA não substitui o cuidado humano; a enfermagem é assistência direta ao paciente. A nota cita a Telenfermagem (Resolução Cofen 692/2022).
-  - https://cofen.gov.br/?p=128666
-- **Uso previsto no dia a dia (congresso do Cofen, set/2025):** ferramentas de gravação de consulta, transcrição para o prontuário e análise de laudos, sempre com revisão crítica do profissional.
-  - https://www.cofen.gov.br/inteligencia-artificial-na-enfermagem/
-- **Formação (Coren-SP, set/2025):** sem formar enfermeiros e técnicos em saúde digital, IA e prontuário eletrônico haverá lacunas; a coordenadora diz que é preciso regulamentação nacional antes de incorporar ao sistema Cofen/Conselhos.
-  - https://cofen.gov.br/?p=152499
-- **Contexto geral (OIT, 2025):** 1 em cada 4 empregos no mundo tem alguma exposição à IA generativa; os autores dizem que é mais provável transformar empregos do que eliminá-los, e que os números são exposição potencial, não perda real.
-  - https://brasil.un.org/pt-br/node/294685
+Fonte: Conselho Federal de Enfermagem --- Resolução nº
+754/2024
+Possíveis impactos da IA entre 2026 e 2036
+Apoio à documentação. Ferramentas de IA podem auxiliar na
+transcrição de informações, organização de registros e preparação de
+documentos clínicos. Em evento sobre o tema, o Cofen apresentou
+possibilidades como gravação de consultas, transcrição para prontuários
+e análise de laudos. O uso dessas ferramentas requer revisão crítica por
+profissionais habilitados.
 
----
+Fonte: Cofen --- inteligência artificial na
+enfermagem
 
-## 2. Contador no Santander
+Tecnologia como apoio ao cuidado. O Cofen destaca que a IA não
+substitui o cuidado humano, pois a enfermagem envolve assistência
+direta, comunicação, acolhimento e acompanhamento dos pacientes. Isso
+não impede a automação de algumas tarefas administrativas, mas indica
+que a dimensão humana da profissão permanece essencial.
 
-### Últimos 20 anos (confirmado)
+Fonte: Cofen --- IA e a importância do cuidado
+humano
 
-- **Lei 11.638/2007** (vigor em 1/1/2008) alterou a Lei das S.A. e iniciou a convergência às normas internacionais (IFRS); o CPC passou a emitir os pronunciamentos.
-  - https://revistas.ufpr.br/rcc/article/download/18293/12253
-  - https://periodicos.utfpr.edu.br/ecap/article/download/11185/6766
-- **SPED (Decreto 6.022/2007):** a Escrituração Contábil Digital (livros contábeis em formato digital) esteve entre as três iniciativas iniciais.
-  - https://www.gov.br/sped/pt-br/assuntos/modernizacao-da-relacao-fisco-contribuinte
-- **Contabilidade bancária (Resolução CMN 4.966/2021, vigência 1/1/2025):** harmoniza as regras para instrumentos financeiros nas instituições financeiras e as aproxima do IFRS 9; muda o cálculo de provisões, que passa a considerar perdas esperadas, não só as incorridas.
-  - https://kpmg.com/br/pt/insights/2024/01/harmonizacao-irfs-instituicoes-financeiras-brasil.html
-  - https://www.mckinsey.com/br/our-insights/muito-alem-do-contabil
-- **Reforma tributária:** a EC 132/2023, regulamentada pela LC 214/2025, substitui PIS, Cofins, IPI, ICMS e ISS por um IVA dual (IBS e CBS); a transição começou em janeiro de 2026 e, a partir de agosto, empresas do regime regular passam a preencher IBS/CBS nos documentos fiscais.
-  - https://www.em.com.br/mundo-corporativo/2026/07/7467232-reforma-tributaria-entra-em-fase-decisiva-em-2026.html
-  - Cronograma de transição 2026–2032 (fonte secundária, blog de editora técnica): https://blog.econeteditora.com.br/nova-era-tributaria.md
+Necessidade de capacitação. A ampliação do uso de prontuários
+eletrônicos e ferramentas digitais tende a aumentar a necessidade de
+formação em tecnologia, saúde digital e IA. Os profissionais precisarão
+saber utilizar os sistemas, conferir informações e identificar possíveis
+erros.
 
-### IA nos próximos 10 anos (o que as fontes dizem; *projeção*)
+Fonte: Cofen --- formação em saúde digital e inteligência
+artificial
 
-- **Contadores já usam IA (pesquisa IOB/CFC/Fenacon, abr–mai/2026, 393 profissionais):** 78% usam IA ao menos uma vez por semana; 2% a veem como ameaça; 58% acham que ela aumentará o valor estratégico do contador; 29% esperam automação de algumas funções.
-  - https://cfc.org.br/noticias/pesquisa-mostra-avanco-da-inteligencia-artificial-na-rotina-dos-profissionais-da-contabilidade/
-  - Ressalva: 69% dos respondentes atuam em empresas de contabilidade, não em bancos: https://sitecontabil.com.br/utilitarios2/noticias-ler.php?id=14832
-- **Exposição (OIT/NASK, 2025):** ocupações administrativas estão entre as mais expostas; o relatório cita entrada de dados, contabilidade operacional e também analistas financeiros e caixas de banco, sempre como exposição parcial.
-  - https://exame.com/inteligencia-artificial/um-em-cada-quatro-trabalhadores-esta-exposto-a-ia-o-que-isso-significa-para-a-carreira/
-  - https://convergenciadigital.com.br/inovacao/oit-um-em-cada-quatro-empregos-no-mundo-esta-exposto-a-inteligencia-artificial-generativa/
-- **Efeito em jovens (FGV IBRE, 2025):** quase 30 milhões de trabalhadores (29,6%) estavam em ocupações com algum grau de exposição no 3º tri/2025; o estudo aponta queda de ocupação e renda concentrada em jovens de 18 a 29 anos, com substituição de tarefas em funções de entrada.
-  - https://blogdoibre.fgv.br/sites/blogdoibre.fgv.br/files/u139/inteligencia_artificial_generativa_e_mercado_de_trabalho_no_brasil.pdf
-- **Santander Brasil (declarações do próprio banco):** mais de 400 casos de uso de IA no Brasil; cerca de 40% das linhas de código com apoio de IA; executivos do Santander e do Bradesco tratam a IA como ferramenta de produtividade, não substituição em massa.
-  - https://www.seudinheiro.com/2026/empresas/seu-proximo-gerente-pode-ser-uma-ia-veja-como-bradesco-e-santander-estao-se-preparando-e-se-os-apps-de-banco-vao-acabar-miql/
-- **Meta de valor com IA:** o diretor de dados e IA do Santander Brasil diz que o banco pode chegar a € 1 bilhão em valor gerado por IA já em 2027; o Brasil abriga um dos dois centros globais de excelência em IA do grupo.
-  - https://www.seudinheiro.com/2026/empresas/santander-adianta-em-um-ano-a-meta-de-1-bilhao-de-euros-com-inteligencia-artificial-diretor-revela-qual-o-papel-do-brasil-nessa-corrida-miql/
-- **Escala global:** o grupo estendeu acesso a ferramentas de IA a todos os 185 mil funcionários (dado global, relatado com base na Finextra).
-  - https://www.letsmoney.com.br/noticias/santander-libera-ia-185-mil-funcionarios-200-milhoes/
-- **Alucinação e papel humano (head de tecnologia do Santander, set/2025):** ele acredita que a IA não vai substituir as pessoas por causa de problemas de alucinação; hoje potencializa o trabalho humano.
-  - https://www.mobiletime.com.br/noticias/11/09/2025/agent-service-santander/
+Transformação das tarefas. A Organização Internacional do Trabalho
+(OIT) estima que aproximadamente um em cada quatro empregos no mundo
+tenha algum grau de exposição à IA generativa. O estudo ressalta que
+exposição não significa necessariamente perda do emprego: em muitos
+casos, a tecnologia tende a transformar tarefas dentro das ocupações.
 
----
+Fonte: ONU Brasil --- estudo da OIT sobre IA generativa e
+empregos
 
-## 3. Trabalhar na Secretaria Municipal de Saúde (prefeitura)
+Síntese da profissão: a tendência é que o técnico de enfermagem
+utilize mais sistemas digitais e ferramentas de apoio à documentação. O
+atendimento, a observação e o cuidado direto com os pacientes continuam
+sendo elementos centrais da profissão. A capacitação tecnológica e a
+conferência das informações serão cada vez mais importantes.
+2. Contador em uma indústria da Cooper Standard
+A Cooper Standard é uma empresa global que fornece sistemas e
+componentes de vedação e condução de fluidos para os setores de
+transporte e indústria. A companhia possui operação em Varginha, Minas
+Gerais. Uma publicação do setor automotivo registra que a empresa
+iniciou suas atividades no Brasil em 1995, com uma fábrica em Varginha.
 
-Premissa: tratei como trabalho de gestão/apoio na Secretaria de Saúde (não como função assistencial). Se for um cargo específico (regulação, vigilância, faturamento, agente administrativo), a pesquisa deve ser refeita para ele.
+Fontes: - Cooper Standard --- apresentação
+institucional - Revista O
+Mecânico --- histórico da Cooper Standard no
+Brasil -
+Cooper Standard --- contato e endereço da sede sul-americana em
+Varginha
+Transformações na contabilidade nos últimos 20 anos
+Digitalização das obrigações contábeis e fiscais. Em 2007, o Decreto
+nº 6.022 instituiu o Sistema Público de Escrituração Digital (SPED). A
+Escrituração Contábil Digital (ECD) passou a permitir a entrega de
+livros contábeis em formato digital, substituindo procedimentos que
+antes dependiam de documentos físicos. A mudança ampliou a importância
+de sistemas, arquivos digitais e integração de informações.
 
-### Últimos 20 anos (confirmado, de forma parcial; ver Lacunas)
+Fontes: - Receita Federal --- modernização da relação entre Fisco e
+contribuinte -
+Governo Federal --- Escrituração Contábil
+Digital
 
-- **Financiamento da atenção primária:** o Previne Brasil foi instituído em 2019 e mudou o repasse federal, com pagamento por desempenho. Em abril de 2024 as regras foram reformuladas com nova metodologia de cofinanciamento.
-  - https://periodicos.ufjf.br/index.php/aps/article/download/e292647101/30652/237050
-  - https://portal.tcu.gov.br/imprensa/noticias/auditoria-avalia-financiamento-da-atencao-primaria-a-saude-do-sus
-- **Auditoria do TCU (maio/2026):** mais de 180 milhões de brasileiros cadastrados na atenção primária; o TCU achou falhas nas regras de distribuição dos recursos e deficiências de governança, e mandou o Ministério da Saúde implantar gestão de riscos em até 90 dias.
-  - https://portal.tcu.gov.br/imprensa/noticias/auditoria-avalia-financiamento-da-atencao-primaria-a-saude-do-sus
-- **Dados e sistemas:** o Ministério da Saúde apresentou em julho de 2026 a federalização da Rede Nacional de Dados em Saúde (RNDS), com municipalização em três ciclos até chegar a todos os municípios. Uma nota técnica de 2026 manda priorizar o prontuário e-SUS APS e trata a Coleta de Dados Simplificada (CDS) como solução provisória.
-  - https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/ministerio-da-saude-apresenta-estrategia-sobre-rede-nacional-de-dados-em-saude
-  - https://www.gov.br/saude/pt-br/composicao/saps/publicacoes/notas-tecnicas-e-informativas/nota-tecnica-no-32-2026-cgsb-desf-saps-ms
-- **Crescimento da RNDS:** alta superior a 400% desde 2023, cerca de 4,7 bilhões de registros (declaração da secretária de Informação e Saúde Digital, via DPL News).
-  - https://dplnews.com/brasil-prepara-contratacao-solucoes-ia-para-sus-2026/
+Convergência às normas internacionais. A Lei nº 11.638/2007 alterou
+a legislação das sociedades por ações e impulsionou a aproximação da
+contabilidade brasileira às normas internacionais. Esse processo
+aumentou a importância da interpretação das normas, da elaboração de
+demonstrações financeiras e da análise dos efeitos econômicos das
+operações.
 
-### IA nos próximos 10 anos (o que as fontes dizem; *projeção*)
+Fonte: Lei nº 11.638/2007 --- Presidência da
+República
 
-- **Contratação de soluções de IA no SUS:** o Ministério da Saúde disse que pretende começar ainda em 2026; 398 propostas foram habilitadas para o Laboratório de Inovação do SUS Digital e 273 envolvem IA. A própria fonte cita incerteza de ano eleitoral e que o recurso ainda estava sendo buscado.
-  - https://dplnews.com/brasil-prepara-contratacao-solucoes-ia-para-sus-2026/
-- **Serpro e Ministério da Saúde:** a parceria inclui aplicação de IA para análise, suporte e automação de processos.
-  - https://www.serpro.gov.br/menu/noticias/noticias-2026/nuvem-soberana-e-inteligencia-artificial-impulsionam-modernizacao-do-sus
+Integração de sistemas em empresas industriais. Em uma indústria, as
+informações contábeis se relacionam com compras, estoques, produção,
+vendas, folha de pagamento, custos e planejamento financeiro. No
+relatório corporativo de 2024, a Cooper Standard descreve o uso de
+plataformas globais para planejamento de recursos empresariais (ERP),
+recursos humanos, compras, planejamento financeiro e relatórios. A
+integração desses sistemas contribui para padronizar processos e reunir
+informações de diferentes áreas.
 
----
+Fonte: Cooper Standard --- relatório corporativo de 2024,
+"Transformation: Change is
+Constant"
 
-## Lacunas (não entram como informação)
+Automação de processos administrativos. No mesmo relatório, a Cooper
+Standard informa que utiliza automação robótica de processos (RPA) em
+áreas como compras, finanças, serviços corporativos, cadeia de
+suprimentos, área comercial e tecnologia da informação. A empresa
+registra 47.807 horas de trabalho manual automatizadas por essa
+iniciativa. O dado é global e abrange diferentes áreas; não representa
+exclusivamente o trabalho da contabilidade no Brasil. RPA é automação de
+processos e não deve ser confundida automaticamente com inteligência
+artificial.
 
-- Não achei estimativa de exposição à IA específica para técnico de enfermagem nem para servidor de secretaria de saúde. Só há estimativas gerais (OIT, FGV IBRE).
-- Não achei fonte sobre o quadro de contadores do Santander Brasil (efetivo, cortes ou contratações). Os dados do banco são sobre IA em geral e vêm de declarações da própria empresa.
-- Secretaria de Saúde: faltam fontes sobre mudanças de rotina e de legislação de pessoal e compras públicas nos municípios (por exemplo licitações e concursos). Não pesquisei isso.
-- Piso da enfermagem: confirmei a suspensão cautelar de 2022, mas não conferi aqui a decisão final do STF.
-- Divergência: a página do TCU cita a Portaria GM/MS 3.973/2024 e outra fonte cita 3.493/2024. Por isso não usei o número da portaria.
-- Fontes de imprensa e de mercado (Seu Dinheiro, DPL News, Letsmoney, Exame) são secundárias. Os números do Santander são autodeclarados.
+Fonte: Cooper Standard --- relatório corporativo de 2024, seção de
+automação
+
+Reforma Tributária. A Emenda Constitucional nº 132/2023 e a Lei
+Complementar nº 214/2025 estabeleceram mudanças na tributação sobre o
+consumo, incluindo a criação da Contribuição sobre Bens e Serviços (CBS)
+e do Imposto sobre Bens e Serviços (IBS). A transição começou em 2026 e
+ocorrerá gradualmente. Para empresas industriais, a adaptação envolve
+acompanhar a legislação, revisar cadastros e documentos fiscais e
+ajustar sistemas e processos.
+
+Fontes: - Emenda Constitucional nº
+132/2023 -
+Lei Complementar nº
+214/2025 -
+Ministério da Fazenda --- transição da Reforma
+Tributária
+Possíveis impactos da IA entre 2026 e 2036
+Automação e análise na indústria. No relatório anual referente a
+2025, a Cooper Standard descreve a adoção de tecnologias digitais na
+manufatura, incluindo análise avançada de dados, inteligência artificial
+aplicada à produção e conceitos de fábrica inteligente. Essas
+iniciativas mostram que a IA faz parte da estratégia tecnológica da
+empresa, especialmente em operações industriais. O documento não permite
+afirmar que todos os departamentos financeiros ou todas as unidades
+brasileiras utilizem as mesmas ferramentas.
+
+Fonte: Cooper Standard --- relatório anual de 2025, arquivado na
+SEC
+
+Possível ampliação da automação financeira. Como a empresa já
+documenta o uso de RPA em processos da área financeira, é possível que
+atividades repetitivas, como organização de documentos, processamento de
+informações e elaboração de relatórios padronizados, sejam cada vez mais
+automatizadas. Essa é uma projeção baseada na estratégia corporativa;
+não é uma confirmação de que todas essas tarefas já estejam
+automatizadas na unidade de Varginha.
+
+Fonte: Cooper Standard --- relatório corporativo de
+2024
+
+Mais espaço para análise e controle. Com a automação de tarefas
+operacionais, o contador pode dedicar mais tempo à análise de custos,
+acompanhamento de resultados, conferência de dados, interpretação de
+normas e apoio às decisões da gestão. A IA pode auxiliar na
+identificação de padrões e inconsistências, mas os resultados precisam
+ser verificados.
+
+Mudança no perfil profissional. Pesquisa nacional realizada pela
+IOB, pelo Conselho Federal de Contabilidade (CFC) e pela Fenacon com 393
+profissionais, em abril e maio de 2026, apontou que 78% dos
+participantes utilizavam IA pelo menos uma vez por semana. Além disso,
+58% acreditavam que a tecnologia aumentaria o valor estratégico do
+contador e 29% esperavam a automação de algumas funções. A pesquisa não
+representa especificamente os contadores da Cooper Standard.
+
+Fonte: CFC --- pesquisa sobre inteligência artificial na rotina da
+contabilidade
+
+Síntese da profissão: a contabilidade industrial passou por
+digitalização de registros, integração de sistemas e automação de
+processos. Na Cooper Standard, há documentação pública de RPA em
+finanças e de tecnologias de IA na estratégia industrial. Para o
+contador, a tendência é que competências de análise, controle,
+interpretação de dados e atualização tributária ganhem importância. Não
+há informação pública suficiente para descrever todas as ferramentas
+utilizadas especificamente pelos contadores da unidade de Varginha.
+3. Trabalho administrativo ou de gestão na Secretaria Municipal de Saúde
+Esta seção considera atividades administrativas e de apoio à gestão de
+uma Secretaria Municipal de Saúde. As atribuições variam conforme o
+cargo e o município. Entre as áreas possíveis estão planejamento,
+regulação, vigilância, faturamento, compras, gestão de unidades e
+organização de informações.
+Transformações nos últimos 20 anos
+Digitalização da Atenção Primária. Em 2013, o Ministério da Saúde
+lançou a estratégia e-SUS Atenção Básica, posteriormente denominada
+e-SUS APS, com o objetivo de reorganizar a coleta e o uso de informações
+na atenção primária. A estratégia inclui prontuário eletrônico, coleta
+simplificada e aplicativos. Material do Ministério da Saúde sobre os dez
+anos do programa apresenta a expansão do uso de prontuários eletrônicos
+nas Unidades Básicas de Saúde.
+
+Fontes: - Ministério da Saúde --- 10 anos do e-SUS
+APS -
+Ministério da Saúde --- visão geral do
+SISAB
+
+Gestão orientada por indicadores. Sistemas como e-SUS APS e SISAB
+permitem reunir informações sobre cadastros, atendimentos e ações das
+equipes de saúde. Esses dados auxiliam o acompanhamento de indicadores e
+o planejamento das políticas públicas. Assim, a qualidade dos registros
+e a capacidade de interpretar informações passaram a ter importância
+crescente na gestão municipal.
+
+Fonte: Ministério da Saúde --- Sistema de Informação em Saúde para a
+Atenção Básica
+(SISAB)
+
+Mudanças no financiamento da Atenção Primária. O programa Previne
+Brasil, instituído em 2019, alterou o modelo de financiamento federal da
+Atenção Primária à Saúde. Em 2024, o Ministério da Saúde estabeleceu uma
+nova metodologia de cofinanciamento federal. Essas mudanças aumentaram a
+necessidade de acompanhar critérios, cadastros, indicadores e regras de
+repasse de recursos.
+
+Fontes: - Estudo sobre o Previne
+Brasil -
+Tribunal de Contas da União --- auditoria sobre o financiamento da
+Atenção
+Primária
+
+Integração de informações de saúde. A Rede Nacional de Dados em
+Saúde (RNDS) foi desenvolvida para permitir o compartilhamento e a
+integração de informações entre sistemas de saúde. Essa infraestrutura
+pode apoiar a continuidade do cuidado, a vigilância, o planejamento e a
+gestão. Para os municípios, a integração exige atenção à qualidade dos
+dados, à segurança e às regras de acesso.
+
+Fonte: Ministério da Saúde --- Rede Nacional de Dados em
+Saúde
+
+Política Nacional de Informação e Saúde Digital. Em outubro de 2026,
+o Ministério da Saúde anunciou a instituição da Política Nacional de
+Informação e Saúde Digital. A iniciativa reforça a transformação digital
+do SUS e aborda integração de dados, telessaúde, proteção de informações
+e formação de trabalhadores e gestores.
+
+Fonte: Ministério da Saúde --- Política Nacional de Informação e Saúde
+Digital, outubro de
+2026
+Possíveis impactos da IA entre 2026 e 2036
+Apoio ao planejamento e à gestão. Ferramentas de IA podem auxiliar
+na análise de indicadores, identificação de tendências de demanda,
+organização de informações e preparação de relatórios. Em 2026, o
+Ministério da Saúde divulgou iniciativa de capacitação sobre IA aplicada
+à gestão do SUS, indicando que o tema já faz parte da agenda de formação
+de gestores públicos.
+
+Fonte: Ministério da Saúde --- curso sobre IA na gestão do SUS, julho
+de
+2026
+
+Automação de atividades administrativas. É possível que ferramentas
+digitais auxiliem na classificação de documentos, organização de
+solicitações, preparação de minutas e identificação de inconsistências
+em cadastros e relatórios. Essas aplicações representam possibilidades
+para os próximos anos e não significam que todas as prefeituras já
+utilizem tais recursos.
+
+Integração e análise de dados. Com a expansão da RNDS e das
+políticas de saúde digital, os gestores municipais poderão contar com
+informações mais integradas para acompanhar serviços, indicadores e
+necessidades da população. O aproveitamento desses dados dependerá da
+qualidade dos registros e da infraestrutura disponível em cada
+município.
+
+Fonte: Ministério da Saúde --- Rede Nacional de Dados em
+Saúde
+
+Capacitação e proteção de dados. O uso de IA na administração
+pública exige atenção à Lei Geral de Proteção de Dados Pessoais (LGPD),
+ao controle de acesso e à segurança das informações. Servidores e
+gestores também precisarão verificar os resultados produzidos por
+sistemas automatizados antes de utilizá-los em decisões.
+
+Fonte: Ministério da Saúde --- Política Nacional de Informação e Saúde
+Digital
+
+Responsabilidade nas decisões. A IA pode apoiar análises e tarefas
+administrativas, mas decisões sobre orçamento, compras públicas,
+prioridades de atendimento e políticas de saúde precisam continuar
+submetidas às normas e à responsabilidade dos agentes públicos.
+
+Síntese da profissão: o trabalho administrativo e de gestão na
+Secretaria Municipal de Saúde está cada vez mais relacionado a sistemas
+digitais, indicadores e integração de informações. A IA pode auxiliar na
+organização de dados e no planejamento, mas a conferência das
+informações, a proteção de dados pessoais e a responsabilidade pelas
+decisões continuam fundamentais.
+Comparação entre as três áreas
+  Área profissional       Mudanças observadas nos Possíveis impactos da
+últimos 20 anos         IA nos próximos 10 anos
+  Técnico de enfermagem   Ampliação da            Apoio à documentação e
+qualificação            à análise de
+profissional,           informações, sem
+crescimento dos         eliminar a importância
+vínculos de trabalho e  do cuidado humano e da
+uso de prontuários e    assistência direta.
+registros digitais.     
+
+  Contador na Cooper      Digitalização das       Maior automação de
+Standard                obrigações fiscais,     tarefas repetitivas e
+aproximação às normas   valorização da análise
+internacionais,         financeira, do controle
+integração de sistemas  e da interpretação de
+e automação de          dados.
+processos empresariais. 
+Secretaria Municipal de Expansão de sistemas    Apoio à análise de
+Saúde                   como e-SUS APS, uso de  indicadores,
+indicadores, mudanças   organização
+no financiamento e      administrativa,
+integração de dados de  produção de relatórios
+saúde.                  e planejamento dos
+serviços públicos.
+Limitações da pesquisa
+- Técnico de enfermagem: não foi localizada uma estimativa
+  específica e confiável sobre a proporção de tarefas dessa ocupação
+  que poderá ser automatizada por IA no Brasil.
+- Cooper Standard: os dados públicos sobre RPA e IA são
+  principalmente corporativos e globais. Eles não permitem afirmar
+  quais ferramentas são utilizadas individualmente por contadores da
+  unidade de Varginha.
+- Secretaria Municipal de Saúde: as atribuições variam conforme o
+  cargo e o município. Por isso, a análise considera atividades
+  administrativas e de gestão em sentido amplo, e não uma função
+  específica.
+- Projeções: nenhuma fonte pode confirmar exatamente como estarão
+  essas profissões em 2036. As tendências apresentadas são
+  possibilidades baseadas em iniciativas e estudos disponíveis na data
+  da pesquisa.
+- Exposição à IA: uma ocupação estar exposta à IA não significa
+  que será extinta. A tecnologia pode modificar apenas algumas tarefas
+  e criar novas exigências profissionais.
+Conclusão
+Nas últimas duas décadas, as três áreas analisadas passaram por mudanças
+relacionadas à digitalização, ao uso de sistemas de informação, à
+integração de dados e à modernização de processos. Na enfermagem, a
+qualificação e os registros digitais ganharam importância. Na
+contabilidade industrial, sistemas integrados, obrigações digitais e
+automação transformaram atividades financeiras e administrativas. Na
+gestão municipal de saúde, plataformas digitais e indicadores ampliaram
+a capacidade de acompanhar e planejar os serviços.
+
+Para os próximos dez anos, a inteligência artificial poderá acelerar
+tarefas repetitivas, apoiar análises e facilitar o acesso a informações.
+Entretanto, seus efeitos serão diferentes em cada área. O técnico de
+enfermagem continuará tendo papel essencial no cuidado direto; o
+contador precisará combinar conhecimento contábil com análise e domínio
+tecnológico; e os profissionais da gestão pública precisarão utilizar
+dados com responsabilidade e transparência.
+
+Em todas as profissões, a capacidade de aprender continuamente, utilizar
+ferramentas digitais e avaliar criticamente os resultados será
+importante para acompanhar as transformações do trabalho.
+Referências principais
+- Conselho Federal de Enfermagem (Cofen)
+- Lei nº 14.434/2022 --- Piso Nacional da
+  Enfermagem
+- Organização Internacional do Trabalho --- estudo sobre IA
+  generativa e empregos, divulgado pela ONU
+  Brasil
+- Conselho Federal de Contabilidade --- pesquisa sobre IA na
+  contabilidade
+- Cooper Standard --- relatório corporativo de
+  2024
+- Cooper Standard --- relatório anual de 2025 na
+  SEC
+- Ministério da Saúde --- e-SUS
+  APS
+- Ministério da Saúde --- Rede Nacional de Dados em
+  Saúde
+- Ministério da Fazenda --- Reforma
+  Tributária
